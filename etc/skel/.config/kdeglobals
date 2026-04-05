@@ -99,10 +99,10 @@ ColorScheme=ctlosdark
 XftHintStyle=hintmedium
 XftSubPixel=rgb
 fixed=Ubuntu Mono,12,-1,5,50,0,0,0,0,0
-font=Clear Sans Medium,10,-1,5,57,0,0,0,0,0,Regular
-menuFont=Clear Sans Medium,10,-1,5,57,0,0,0,0,0,Regular
-smallestReadableFont=Clear Sans Medium,9,-1,5,57,0,0,0,0,0,Regular
-toolBarFont=Clear Sans Medium,10,-1,5,57,0,0,0,0,0,Regular
+font=Clear Sans Medium,11,-1,5,57,0,0,0,0,0,Regular
+menuFont=Clear Sans Medium,11,-1,5,57,0,0,0,0,0,Regular
+smallestReadableFont=Clear Sans Medium,10,-1,5,57,0,0,0,0,0,Regular
+toolBarFont=Clear Sans Medium,11,-1,5,57,0,0,0,0,0,Regular
 
 [Icons]
 Theme=Qogir-dark
@@ -116,7 +116,7 @@ widgetStyle=kvantum
 FakeEntryToKeepThisGroup=true
 activeBackground=38,41,46
 activeBlend=38,41,46
-activeFont=Clear Sans Medium,10,-1,5,57,0,0,0,0,0,Regular
+activeFont=Clear Sans Medium,11,-1,5,57,0,0,0,0,0,Regular
 activeForeground=255,255,255
 inactiveBackground=38,41,46
 inactiveBlend=38,41,46
