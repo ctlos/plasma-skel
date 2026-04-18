@@ -21,12 +21,27 @@ CommandAllKey=Alt
 HighlightWindows=false
 LayoutName=thumbnails
 
+[Tiling][1afd3d0e-988c-484d-a002-893350fa8194][87a2e8bd-f783-425f-bd05-58315523e7a3]
+padding=4
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][8fc6c8c1-7da3-45e0-8130-312d26e2635a][87a2e8bd-f783-425f-bd05-58315523e7a3]
+padding=4
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][adf358ab-d258-4d1a-850e-a6c628834406][87a2e8bd-f783-425f-bd05-58315523e7a3]
+padding=4
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
 [Windows]
 BorderlessMaximizedWindows=true
 Placement=Centered
 
+[Xwayland]
+Scale=1
+
 [org.kde.kdecoration2]
 ButtonsOnLeft=
 ButtonsOnRight=IAX
-library=org.kde.kwin.aurorae
+library=org.kde.kwin.aurorae.v2
 theme=__aurorae__svg__MoeDark

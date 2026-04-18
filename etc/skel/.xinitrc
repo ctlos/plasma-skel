@@ -38,4 +38,4 @@ xset b off
 # fc-cache -fv &
 
 export DESKTOP_SESSION=plasma
-exec startplasma-x11
+# exec startplasma-x11

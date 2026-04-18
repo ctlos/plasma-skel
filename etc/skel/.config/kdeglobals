@@ -96,27 +96,49 @@ ForegroundVisited=255,102,102
 
 [General]
 ColorScheme=ctlosdark
-XftHintStyle=hintmedium
-XftSubPixel=rgb
-fixed=Ubuntu Mono,12,-1,5,50,0,0,0,0,0
-font=Clear Sans Medium,11,-1,5,57,0,0,0,0,0,Regular
-menuFont=Clear Sans Medium,11,-1,5,57,0,0,0,0,0,Regular
-smallestReadableFont=Clear Sans Medium,10,-1,5,57,0,0,0,0,0,Regular
-toolBarFont=Clear Sans Medium,11,-1,5,57,0,0,0,0,0,Regular
+XftAntialias=true
+XftHintStyle=hintslight
+XftSubPixel=none
+fixed=Hack Nerd Font Mono,13,-1,5,400,0,0,0,0,0,0,0,0,0,0,1,,0,0
+font=Clear Sans Medium,12,-1,5,500,0,0,0,0,0,0,0,0,0,0,1,Regular,0,0
+menuFont=Clear Sans Medium,12,-1,5,500,0,0,0,0,0,0,0,0,0,0,1,Regular,0,0
+smallestReadableFont=Clear Sans Medium,11,-1,5,500,0,0,0,0,0,0,0,0,0,0,1,Regular,0,0
+toolBarFont=Clear Sans Medium,12,-1,5,500,0,0,0,0,0,0,0,0,0,0,1,Regular,0,0
 
 [Icons]
-Theme=Qogir-dark
+Theme=Qogir-Dark
 
 [KDE]
 AnimationDurationFactor=0.35355339059327373
+DefaultLightLookAndFeel=org.kde.breezetwilight.desktop
+LookAndFeelPackage=org.kde.breezedark.desktop
 SingleClick=false
+contrast=10
+frameContrast=0.2
 widgetStyle=kvantum
+
+[KFileDialog Settings]
+Allow Expansion=false
+Automatically select filename extension=true
+Breadcrumb Navigation=false
+Decoration position=2
+Show Full Path=false
+Show Inline Previews=true
+Show Preview=false
+Show Speedbar=true
+Show hidden files=false
+Sort by=Name
+Sort directories first=true
+Sort hidden files last=false
+Sort reversed=false
+Speedbar Width=221
+View Style=DetailTree
 
 [WM]
 FakeEntryToKeepThisGroup=true
 activeBackground=38,41,46
 activeBlend=38,41,46
-activeFont=Clear Sans Medium,11,-1,5,57,0,0,0,0,0,Regular
+activeFont=Clear Sans Medium,12,-1,5,500,0,0,0,0,0,0,0,0,0,0,1,Regular,0,0
 activeForeground=255,255,255
 inactiveBackground=38,41,46
 inactiveBlend=38,41,46
